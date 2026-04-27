@@ -1,0 +1,9 @@
+,emotion_accuracy,nli_accuracy,rouge1,rouge2,rougeL
+emotion_specialist,0.912,0.41,0.2404,0.0757,0.1928
+summary_specialist,0.408,0.51,0.3669,0.1577,0.2976
+nli_specialist,0.238,0.858,0.2573,0.0767,0.205
+multitask_baseline,0.882,0.38,0.3723,0.1488,0.3011
+weight_avg_3task,0.622,0.68,0.3736,0.1348,0.2969
+task_arith_3task,0.63,0.834,0.3803,0.1427,0.298
+breadcrumbs_3task,0.636,0.814,0.3687,0.1332,0.2913
+ties_3task,0.58,0.672,0.3734,0.1342,0.2983

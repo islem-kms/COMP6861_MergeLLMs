@@ -1,0 +1,9 @@
+,emotion_accuracy,rouge1,rouge2,rougeL
+base_zero_shot,0.318,0.2284,0.0715,0.1806
+emotion_specialist,0.912,0.2403,0.0753,0.1925
+summary_specialist,0.408,0.3673,0.1582,0.2977
+multitask_baseline,0.882,0.372,0.1489,0.3007
+weight_average,0.782,0.3918,0.1543,0.3212
+task_arithmetic_0.5,0.782,0.3918,0.1543,0.3212
+breadcrumbs_0.2,0.68,0.3693,0.1331,0.3006
+ties,0.636,0.3607,0.12,0.2855

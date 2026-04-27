@@ -1,0 +1,63 @@
+# torch==2.10.0
+# transformers==4.44.0
+# peft==0.12.0
+# trl==0.11.0
+# accelerate==0.34.0
+# bitsandbytes==0.43.3
+# datasets==2.21.0
+# evaluate==0.4.3
+# rouge_score==0.1.2
+# scikit-learn==1.5.2
+# matplotlib==3.9.2
+# seaborn==0.13.2
+# pandas==2.2.3
+# numpy==1.26.4
+# huggingface_hub==0.24.7
+# sentencepiece==0.2.0
+# protobuf==4.25.4
+
+
+
+
+
+# torch==2.10.0
+# transformers==4.44.0
+# peft==0.12.0
+# trl==0.11.0
+# accelerate==0.34.0
+# bitsandbytes==0.43.3
+# datasets==2.21.0
+# evaluate==0.4.3
+# rouge_score==0.1.2
+# scikit-learn==1.5.2
+# matplotlib==3.9.2
+# seaborn==0.13.2
+# pandas==2.2.3
+# numpy==1.26.4
+# huggingface_hub==0.24.7
+# sentencepiece==0.2.0
+# protobuf==4.25.4
+# rich                      # ← add this line
+# psutil                    # ← add this too (used in 00_setup.py)
+# triton==3.6.0
+
+
+torch==2.10.0
+transformers==4.44.0
+peft==0.12.0
+trl==0.11.0
+accelerate==0.34.0
+datasets==2.21.0
+evaluate==0.4.3
+rouge_score==0.1.2
+scikit-learn==1.5.2
+matplotlib==3.9.2
+seaborn==0.13.2
+pandas==2.2.3
+numpy==1.26.4
+huggingface_hub==0.24.7
+sentencepiece==0.2.0
+protobuf==4.25.4
+rich
+psutil
+triton==3.6.0
