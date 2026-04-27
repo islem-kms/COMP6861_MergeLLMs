@@ -1,4 +1,5 @@
 # COMP6861 — Model Merging for Multitask Language Models
+#### Islem Khemissi [LinkedIn](https://ca.linkedin.com/in/islem-khemissi) 
 
 Replication package for the model merging project.
 Base model: `meta-llama/Llama-3.2-3B-Instruct` (full experiment) /
